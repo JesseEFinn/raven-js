@@ -1,0 +1,16 @@
+{
+	"name": "@hrotti/raven-js",
+	"author": "Jesse E. Finn",
+	"license": "MIT",
+	"description": "",
+	"version": "1.0.0",
+	"main": "./js/bundled.min.js",
+	"types": "./typings/bundled.d.ts",
+	"project": {},
+	"devDependencies": {
+		"typescript": "~3.7.5"
+	},
+	"dependencies": {
+		"handlebars": "4.5.2"
+	}
+}
